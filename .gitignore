@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+models/*.pkl
+models/*.joblib
+output/*.csv
+!output/.gitkeep
+data/*.csv
+data/*.zip
+!data/README.md
