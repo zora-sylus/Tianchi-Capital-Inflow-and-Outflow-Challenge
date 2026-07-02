@@ -16,8 +16,6 @@ Tianchi-Capital-Inflow-and-Outflow-Challenge/
 │   ├── train.py               # 模型训练
 │   ├── predict.py             # 预测生成提交文件
 │   └── utils.py               # 工具函数
-├── models/                   # 保存模型
-├── output/                   # 生成 submission.csv
 ├── main.py                   # 一键运行入口
 ├── requirements.txt
 ├── README.md
